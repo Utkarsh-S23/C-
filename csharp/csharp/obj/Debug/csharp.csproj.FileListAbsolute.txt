@@ -1,0 +1,8 @@
+C:\Users\utkar\source\repos\csharp\csharp\bin\Debug\csharp.exe.config
+C:\Users\utkar\source\repos\csharp\csharp\bin\Debug\csharp.exe
+C:\Users\utkar\source\repos\csharp\csharp\bin\Debug\csharp.pdb
+C:\Users\utkar\source\repos\csharp\csharp\obj\Debug\csharp.csproj.AssemblyReference.cache
+C:\Users\utkar\source\repos\csharp\csharp\obj\Debug\csharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\utkar\source\repos\csharp\csharp\obj\Debug\csharp.csproj.CoreCompileInputs.cache
+C:\Users\utkar\source\repos\csharp\csharp\obj\Debug\csharp.exe
+C:\Users\utkar\source\repos\csharp\csharp\obj\Debug\csharp.pdb
